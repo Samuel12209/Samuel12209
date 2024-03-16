@@ -1,6 +1,6 @@
-### My name is Samuel I started coding in early 2024!
+# My name is Samuel I started coding in early 2024!
 
-# The languages i code in are 
+### The languages i code in are 
 Pyhon
 And more to come!
 
