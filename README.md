@@ -11,6 +11,11 @@
 ![java](https://github.com/Samuel12209/Samuel12209/assets/157180807/511e9e61-5fd4-4a58-86bc-2c352e316e11)
 ![HTML](https://github.com/Samuel12209/Samuel12209/assets/157180807/6c28f8fa-6309-419b-a038-11ce6d01893e)
 
+## 🌱 Goals
+
+- Learn advanced data structures and algorithms
+- Build a full web application from scratch
+- Contribute to more projects
 
 # ⛳Favorite projects
 Some of my favorite projects are 
