@@ -1,4 +1,4 @@
-# My name is Samuel I started coding in early 2024!
+# My name is Samuel I started coding in January 2024!
 
 # 📚Coding Knowledge
 ![python](https://github.com/Samuel12209/Samuel12209/assets/157180807/346fbb21-67a3-42d9-a931-ff23a3c2d37d)
