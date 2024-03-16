@@ -6,7 +6,7 @@
 
 And more to come!
 
-### ⛳Favorite projects
+# ⛳Favorite projects
 Some of my favorite projects are 
 
 https://github.com/Samuel12209/Chat-Bot
@@ -22,3 +22,4 @@ Not because of their level of complexity but of how much fun i had making them!
 Discord: .thegaminggamer
 
 mail: samuelbenitez12290@gmail.com
+*hello there*
