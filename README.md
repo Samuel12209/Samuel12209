@@ -1,7 +1,8 @@
 # My name is Samuel I started coding in early 2024!
 
 # 📚Coding Knowledge
-Pyhon
+![python](https://github.com/Samuel12209/Samuel12209/assets/157180807/80e6c2cb-9e58-4bc6-9bfd-7d62332fa0f3)
+
 And more to come!
 
 ### ⛳Favorite projects
