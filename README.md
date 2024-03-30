@@ -20,18 +20,18 @@
 # ⛳Favorite projects
 Some of my favorite projects are 
 
-- [Chat Bot] https://github.com/Samuel12209/Chat-Bot
+- [Chat Bot](https://github.com/Samuel12209/Chat-Bot)
+  
+- [Password Maker](https://github.com/Samuel12209/Password-Maker)
 
-- [Password Maker] https://github.com/Samuel12209/Password-Maker
-
-- [Multi-Function Calculator] https://github.com/Samuel12209/Multi-Function-Calculator
+- [Multi-Function Calculator](https://github.com/Samuel12209/Multi-Function-Calculator)
 
 Not because of their level of complexity but of how much fun i had making them!
 
 # 😆A Intresting Experience 
-- [Hangman Extreme] https://github.com/Samuel12209/llama2-bot
+- [Ai chatbot](https://github.com/Samuel12209/llama2-bot)
 
-  Extreme version of hangman!
+  An ai chatbot integrated with discord!
 
 # 📫Contact me 
 ## Feel free to reach out to me via:
