@@ -28,7 +28,7 @@ Some of my favorite projects are
 
 Not because of their level of complexity but of how much fun i had making them!
 
-# 😆A Intresting Experience 
+# 😆A Intresting Project 
 - [Ai chatbot](https://github.com/Samuel12209/llama2-bot)
 
   An ai chatbot integrated with discord!
