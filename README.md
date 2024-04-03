@@ -28,7 +28,7 @@ Some of my favorite projects are
 Not because of their level of complexity but of how much fun i had making them!
 
 # Coding activity
-<a                                                                                                                                                                                   href="https://wakatime.com"><img src="https://wakatime.com/share/@018ea006-acb3-4f60-980f-ec9b4e444ed0/c671ecda-db1e-4fe7-bd54-c43ceea38aa8.png" width="500" height="200" /></a>
+<a                                                                                                                                                                                   href="https://wakatime.com"><img src="https://wakatime.com/share/@018ea006-acb3-4f60-980f-ec9b4e444ed0/c671ecda-db1e-4fe7-bd54-c43ceea38aa8.png" width="500" height="250" /></a>
 
 # 😆A Intresting Project 
 - [Ai chatbot](https://github.com/Samuel12209/llama2-bot)
