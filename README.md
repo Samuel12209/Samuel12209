@@ -43,5 +43,5 @@ mail: samuelbenitez12290@gmail.com
 
 # Coding Activity
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018ea006-acb3-4f60-980f-ec9b4e444ed0/f406f37e-cd8c-4a6d-a1f9-8592dbb4bd6c.png" width="300" height="300" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018ea006-acb3-4f60-980f-ec9b4e444ed0/f406f37e-cd8c-4a6d-a1f9-8592dbb4bd6c.png" width="300" height="200" /></a>
 
