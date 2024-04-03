@@ -1,7 +1,5 @@
 # My name is Samuel I started coding in January 2024!
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018ea006-acb3-4f60-980f-ec9b4e444ed0/4216ca56-326d-4fdc-a104-9d8c74722601.png" /></a>
-
 # 📚Coding Knowledge
 ![python](https://github.com/Samuel12209/Samuel12209/assets/157180807/346fbb21-67a3-42d9-a931-ff23a3c2d37d)
 
@@ -42,3 +40,7 @@ Discord: .thegaminggamer
 mail: samuelbenitez12290@gmail.com
 
 *hello there*  
+
+# Coding Activity
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018ea006-acb3-4f60-980f-ec9b4e444ed0/4216ca56-326d-4fdc-a104-9d8c74722601.png" /></a>
