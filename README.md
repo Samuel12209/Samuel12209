@@ -9,7 +9,7 @@
 ![cpp](https://github.com/Samuel12209/Samuel12209/assets/157180807/2b8fde3f-c5cb-41eb-8d0b-d11b63020f7d)
 ![java](https://github.com/Samuel12209/Samuel12209/assets/157180807/511e9e61-5fd4-4a58-86bc-2c352e316e11)
 ![TypeScript](https://github.com/Samuel12209/Samuel12209/assets/157180807/018aec2a-9be7-4f11-8ea5-34f372d305a3)
-![HTML](https://github.com/Samuel12209/Samuel12209/assets/157180807/6c28f8fa-6309-419b-a038-11ce6d01893e)
+![HTML](https://github.com/Samuel12209/Samuel12209/assets/157180807/2bb934a6-e87b-4f6a-bda5-7c31bc351a4c)
 
 ## 🌱 Goals
 
