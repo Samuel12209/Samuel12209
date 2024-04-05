@@ -30,7 +30,7 @@ because they are the First projects i ever made
 
 # Coding activity
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Gamer/645a035f-e1a1-40ab-a55c-d8636783f691.png" width="500" height="250" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Gamer/645a035f-e1a1-40ab-a55c-d8636783f691.png" width="250" height="250" /></a>
 
 # 😆A Intresting Project 
 - [Ai chatbot](https://github.com/Samuel12209/llama2-bot)
