@@ -3,8 +3,6 @@
 # 📚Coding Knowledge
 ![python](https://github.com/Samuel12209/Samuel12209/assets/157180807/346fbb21-67a3-42d9-a931-ff23a3c2d37d)
 
-## Learning more in the future!
-
 ## Languages i want to learn
 ![cpp](https://github.com/Samuel12209/Samuel12209/assets/157180807/2b8fde3f-c5cb-41eb-8d0b-d11b63020f7d)
 ![java](https://github.com/Samuel12209/Samuel12209/assets/157180807/511e9e61-5fd4-4a58-86bc-2c352e316e11)
