@@ -29,7 +29,8 @@ Some of my favorite projects are
 because they are the First projects i ever made
 
 # Coding activity
-<a                                                                                                                                                                                   href="https://wakatime.com"><img src="https://wakatime.com/share/@018ea006-acb3-4f60-980f-ec9b4e444ed0/c671ecda-db1e-4fe7-bd54-c43ceea38aa8.png" width="500" height="250" /></a>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Gamer/645a035f-e1a1-40ab-a55c-d8636783f691.png" width="500" height="250" /></a>
 
 # 😆A Intresting Project 
 - [Ai chatbot](https://github.com/Samuel12209/llama2-bot)
