@@ -30,7 +30,7 @@ because they are the First projects i ever made
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Gamer/645a035f-e1a1-40ab-a55c-d8636783f691.png" width="400" height="250" /></a>
 
-# 😆A Intresting Project 
+# Favorite project
 - [Ai chatbot](https://github.com/Samuel12209/llama2-bot)
 
   An ai chatbot integrated with discord!
