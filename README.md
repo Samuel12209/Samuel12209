@@ -15,16 +15,15 @@
 - Build a full web application from scratch
 - Contribute to more projects
 
-# ⛳Favorite projects
-Some of my favorite projects are 
+# ⛳Projects
+Some of my projects are 
 
 - [Chat Bot](https://github.com/Samuel12209/Chat-Bot)
   
-- [Password Maker](https://github.com/Samuel12209/Password-Maker)
+- [virtual pet](https://github.com/Samuel12209/Buddy)
 
 - [Multi-Function Calculator](https://github.com/Samuel12209/Multi-Function-Calculator)
 
-because they are the First projects i ever made
 
 # Coding activity
 
