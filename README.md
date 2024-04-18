@@ -1,4 +1,4 @@
-# My name is Samuel and I love to code!
+# My name is Samuel and I am addicted to coding!
 
 ## 📚 Coding Knowledge
 
