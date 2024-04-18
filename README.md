@@ -1,26 +1,27 @@
-# My name is Samuel And i love to code!
+# My name is Samuel and I love to code!
 
-# 📚Coding Knowledge
-![python](https://github.com/Samuel12209/Samuel12209/assets/157180807/346fbb21-67a3-42d9-a931-ff23a3c2d37d)
+## 📚 Coding Knowledge
 
-# learning
-![cpp](https://github.com/Samuel12209/Samuel12209/assets/157180807/2b8fde3f-c5cb-41eb-8d0b-d11b63020f7d)
-![java](https://github.com/Samuel12209/Samuel12209/assets/157180807/511e9e61-5fd4-4a58-86bc-2c352e316e11)
-![TypeScript](https://github.com/Samuel12209/Samuel12209/assets/157180807/8a4213ee-e387-4446-92f9-517b58cbfdc2)
-![HTML](https://github.com/Samuel12209/Samuel12209/assets/157180807/2bb934a6-e87b-4f6a-bda5-7c31bc351a4c)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) Main language Python
+
+## learning
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) Learning C++
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) Learning Java
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) Learning TypeScript
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) Learning HTML5
 
 ## 🌱 Goals
 
 - Learn advanced data structures and algorithms
-- Build a full web application from scratch
-- Contribute to more projects
+- Build a full-stack web application from scratch
+- Contribute to more open-source projects
+- Get a computer science degree
 
-# 📫Contact me 
-## Feel free to reach out to me via:
+# 📫 Contact me
 
-Discord: .thegaminggamer
+Feel free to reach out to me via:
 
-mail: samuelbenitez12290@gmail.com
+- **Discord:** .thegaminggamer
+- **Email:** samuelbenitez12290@gmail.com
 
-*hello there*  
- 
+*hello there*
