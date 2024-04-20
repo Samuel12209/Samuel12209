@@ -24,4 +24,4 @@ Feel free to reach out to me via:
 - **Discord:** .thegaminggamer
 - **Email:** samuelbenitez12290@gmail.com
 
-*hello there*
+*Samuel the programmer*
