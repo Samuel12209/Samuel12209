@@ -13,6 +13,9 @@
 ## OS systems
 <img src="https://github.com/Samuel12209/Samuel12209/assets/157180807/0eeefa8d-29eb-46ff-8342-bf3dc62c82ba" alt="linux logo" width="50"> ![Windows](https://shields.io/badge/Windows--9cf?logo=Windows&style=social) 
 
+## Software i use 
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ## 🌱 Goals
 
 - Learn data structures and algorithms
