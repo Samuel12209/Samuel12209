@@ -10,7 +10,7 @@
 - ![Lua](https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white) Learning lua
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) Learning C++
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) Learning Java
-- ![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white) Learning Arduinos / mini Elecrical system
+- ![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white) Learning Arduinos / Elecrical systems
 
 
 ## OS systems
