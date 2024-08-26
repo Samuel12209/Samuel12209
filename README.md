@@ -26,7 +26,7 @@
 - Learn data structures and algorithms
 - Build a full web application from scratch
 - Contribute to more open-source projects
-- Get a computer science degree
+- Get a computer science degree ⭐
 
 # 📫 Contact me
 
