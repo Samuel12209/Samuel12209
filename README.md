@@ -36,4 +36,4 @@ Feel free to reach out to me via:
 
 *Sam the programmer*
 ----
-For the badges, im using [aveek.io](https://home.aveek.io/GitHub-Profile-Badges/)
+For the badges in my projects, im using [aveek.io](https://home.aveek.io/GitHub-Profile-Badges/)
