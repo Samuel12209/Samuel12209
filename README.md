@@ -1,4 +1,4 @@
-# My name is Samuel and I love to code!
+# Hi im Samuel and I love to code 👋
 ### An Overveiw of my Skills, Learning Goals and Contact info
 ## 📚 Knowledge (In order of skill)
 
